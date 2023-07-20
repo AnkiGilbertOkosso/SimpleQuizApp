@@ -28,7 +28,7 @@ To get started with the quiz application, you can follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 2. Open the `index.html` file in your web browser.
 
-Alternatively, you can also access the application online by visiting the [Quiz Application](https://your-quiz-app-url.com).
+Alternatively, you can also access the application online by visiting the [Quiz Application](https://ankigilbertokosso.github.io/SimpleQuizApp/).
 
 ## How to Use
 
