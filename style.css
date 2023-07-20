@@ -33,10 +33,18 @@ body {
   }
   
   #submitBtn {
-    display: block;
-    margin: 0 auto;
-    border-radius: 10px ;
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
     border: none;
-    padding: 10px 25px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #submitBtn:hover {
+    background-color: #444141;
+    color: #000;
+    border: #000000 10px;
   }
   
